@@ -13,6 +13,7 @@ setup(
     license='BSD',
     url = 'https://github.com/django/django-localflavor-gr',
     packages = ['django_localflavor_gr'],
+    package_data = {"django_localflavor_gr": ["locale/*/LC_MESSAGES/django.*"]},
     include_package_data = True,
     classifiers = [
         'Development Status :: 5 - Production/Stable',

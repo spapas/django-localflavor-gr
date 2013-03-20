@@ -20,6 +20,21 @@ What's in the greek localflavor?
   
 See the source code for full details.
 
+Installation
+============
+
+To install please run
+
+    pip install git+git://github.com/spapas/django-localflavor-gr
+
+or
+
+    pip install https://github.com/spapas/django-localflavor-gr/zipball/master
+
+Usage
+=======	
+
+	
 Testing
 =======
 
