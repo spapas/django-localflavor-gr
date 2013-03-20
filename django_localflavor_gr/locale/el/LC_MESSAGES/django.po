@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-20 00:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: .\forms.py:22
+msgid "Enter a valid 5-digit greek postal code."
+msgstr "Συμπληρώστε έναν έγκυρο 5ψήφιο ελληνικό ταχυδρομικό κώδικα."
+
+#: .\forms.py:36
+msgid "Enter a valid greek tax number (9 digits)."
+msgstr "Συμπληρώστε ένα έγκυρο ελληνικό ΑΦΜ (9 ψηφία)"
+
+#: .\forms.py:70
+msgid "Enter a 10-digit greek phone number."
+msgstr "Συμπληρώστε ένα 10ψήφιο τηλεφωνικό αριθμό."
+
+#: .\forms.py:94
+msgid "Enter a greek mobile phone number starting with 69."
+msgstr "Συμπληρώστε έναν ελληνικό αριθμό κινητού τηλεφώνου που ξεκινά από 69."
