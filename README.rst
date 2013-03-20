@@ -33,6 +33,13 @@ or
 
 Usage
 =======	
+Just include the field you want and use it in your forms:
+
+    from django_localflavor_gr.forms import (GRPostalCodeField, GRTaxNumberCodeField)
+
+To enable the 000000000 test value to the Tax Number field just pass True to allow_test_value:
+    
+    afm=GRTaxNumberCodeField(allow_test_value=True, required=True,  )
 
 	
 Testing

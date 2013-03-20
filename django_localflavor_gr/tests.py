@@ -19,6 +19,8 @@ class GRLocalFlavorTests(SimpleTestCase):
             '123456789': error,
             '123 32 12 3213': error,
             '32 123 5345': error,
+            '0': error,
+            '00000': error,
             '000000000': error,
             '1111111': error,
             '3123123': error,
