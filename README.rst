@@ -33,11 +33,11 @@ To test, run
 
 
     git clone https://github.com/spapas/django-localflavor-gr
-    
+
 	cd django-localflavor-gr
-    
+
 	django-admin.py test --settings=test_settings --pythonpath=.
-    
+
     
 
 About localflavors
