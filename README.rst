@@ -7,10 +7,10 @@ Country-specific Django helpers for Greece.
 What's in the greek localflavor?
 =================================
 
-* forms.GRPostalCodeField: Greek Postal code field. The valid format is
+* GRPostalCodeField: Greek Postal code field. The valid format is
   5 digits and not starting with 0 or 9.
   
-* forms.GRTaxNumberCodeField: Greek Tax Number code field. The valid format is
+* GRTaxNumberCodeField: Greek Tax Number code field. The valid format is
   9 digits that pass a specific algorithm. You can add the allow_test_value kwarg
   to the field in order to allow the default test value of 000000000.
   
