@@ -79,3 +79,15 @@ was separated into standalone packages in Django 1.5 to keep the framework's
 core clean.
 
 For a full list of available localflavors, see https://github.com/django/
+
+=======
+WARNING
+=======
+
+This app has been superseded by the newly created django-localflavor_ app
+which recombines all the different country locaflavors again (after having
+been removed from Django). Development and maintenance of this app has
+stopped and is only left online as a reminder for the users of those apps.
+It will be removed after grace period of 1 Django release (~spring 2014).
+
+.. _django-localflavor: https://github.com/django/django-localflavor/
